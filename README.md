@@ -6,12 +6,7 @@ Decay is a simple ASCII console rpg game made in pure C++.
 
 The game and algorithms implemented were created from scratch.
 
-- Player navigates around a 2D map using characters for south, west, east, or north.
-- The player can encounter items (equipment or traps) and enemies.
-- Items (alongside base stats) offer strength, stamina and luck which improve chances of winning battles.
-- Combat is turn based where each opponent rolls a dice based on luck.
-- There is a day and night system that reduces or increases player visibility.
-- Player can choose between 3 difficulties and everything is spawned randomly on the map.
+Although simple the game offers navigation around a 2D map, items, traps, enemies, stats, day and night system and 3 difficulties to choose.
 
 This was a prototype (not complete) for university coursework, and I currently have no intention of further developing it.
 
